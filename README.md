@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @maryafor
 - 👀 I’m interested in web development
-- 🌱 I’m currently pursuing Msc. Computer Science
+- 🌱 I’m a graduate in computer science
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me maryafor11@gmail.com
 
